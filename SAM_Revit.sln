@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.7.34024.191
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Grasshopper", "Grasshopper", "{DB49C52F-B595-47F1-A6C0-AA56B2D73541}"
 EndProject
@@ -27,6 +27,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAM.Architectural.Grasshopper.Revit", "Grasshopper\SAM.Architectural.Grasshopper.Revit\SAM.Architectural.Grasshopper.Revit.csproj", "{60BEFC55-49A7-41CC-A719-61954A4B319A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAM.Analytical.Grasshopper.Revit", "Grasshopper\SAM.Analytical.Grasshopper.Revit\SAM.Analytical.Grasshopper.Revit.csproj", "{5EA7781D-9937-4E96-92D7-DD8616AB1DA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F07C9E7D-115E-450D-AFE7-96A775527CDA}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
